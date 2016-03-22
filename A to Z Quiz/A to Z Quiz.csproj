@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ED331F89-E8FB-406B-90F6-E018777748F9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>A_to_Z_Quiz</RootNamespace>
+    <AssemblyName>A to Z Quiz</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AToZAd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AToZAd.Designer.cs">
+      <DependentUpon>AToZAd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chooseDifficulty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chooseDifficulty.Designer.cs">
+      <DependentUpon>chooseDifficulty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chooseLanguageEasy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chooseLanguageEasy.Designer.cs">
+      <DependentUpon>chooseLanguageEasy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="easyQuestion1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="easyQuestion1.Designer.cs">
+      <DependentUpon>easyQuestion1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="easyQuestion1Right.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="easyQuestion1Right.Designer.cs">
+      <DependentUpon>easyQuestion1Right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="easyQuestion2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="easyQuestion2.Designer.cs">
+      <DependentUpon>easyQuestion2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="easyQuestion2Right.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="easyQuestion2Right.Designer.cs">
+      <DependentUpon>easyQuestion2Right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="easyQuestion2Wrong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="easyQuestion2Wrong.Designer.cs">
+      <DependentUpon>easyQuestion2Wrong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="easyQuestion3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="easyQuestion3.Designer.cs">
+      <DependentUpon>easyQuestion3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="easyQuestion3Right.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="easyQuestion3Right.Designer.cs">
+      <DependentUpon>easyQuestion3Right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="easyQuestion3Wrong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="easyQuestion3Wrong.Designer.cs">
+      <DependentUpon>easyQuestion3Wrong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="easyQuestion4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="easyQuestion4.Designer.cs">
+      <DependentUpon>easyQuestion4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="easyQuestion4Right.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="easyQuestion4Right.Designer.cs">
+      <DependentUpon>easyQuestion4Right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="easyQuestion4Wrong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="easyQuestion4Wrong.Designer.cs">
+      <DependentUpon>easyQuestion4Wrong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="easyQuestion5Right.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="easyQuestion5Right.Designer.cs">
+      <DependentUpon>easyQuestion5Right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="easyQuestion5Wrong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="easyQuestion5Wrong.Designer.cs">
+      <DependentUpon>easyQuestion5Wrong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="easyQuestionWrong1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="easyQuestionWrong1.Designer.cs">
+      <DependentUpon>easyQuestionWrong1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="easyQustion3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="easyQustion3.Designer.cs">
+      <DependentUpon>easyQustion3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eQuestion5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eQuestion5.Designer.cs">
+      <DependentUpon>eQuestion5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hardQuestion1Right.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hardQuestion1Right.Designer.cs">
+      <DependentUpon>hardQuestion1Right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hardQuestion2Right.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hardQuestion2Right.Designer.cs">
+      <DependentUpon>hardQuestion2Right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hardQuestion3Right.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hardQuestion3Right.Designer.cs">
+      <DependentUpon>hardQuestion3Right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hardQuestion4Right.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hardQuestion4Right.Designer.cs">
+      <DependentUpon>hardQuestion4Right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hardQuestion5Right.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hardQuestion5Right.Designer.cs">
+      <DependentUpon>hardQuestion5Right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hQuestion1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hQuestion1.Designer.cs">
+      <DependentUpon>hQuestion1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hQuestion2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hQuestion2.Designer.cs">
+      <DependentUpon>hQuestion2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hQuestion3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hQuestion3.Designer.cs">
+      <DependentUpon>hQuestion3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hQuestion4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hQuestion4.Designer.cs">
+      <DependentUpon>hQuestion4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hQuestion5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hQuestion5.Designer.cs">
+      <DependentUpon>hQuestion5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mediumQuestion1Right.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mediumQuestion1Right.Designer.cs">
+      <DependentUpon>mediumQuestion1Right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mediumQuestion2Right.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mediumQuestion2Right.Designer.cs">
+      <DependentUpon>mediumQuestion2Right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mediumQuestion3Right.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mediumQuestion3Right.Designer.cs">
+      <DependentUpon>mediumQuestion3Right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mediumQuestion4Right.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mediumQuestion4Right.Designer.cs">
+      <DependentUpon>mediumQuestion4Right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mediumQuestion5Right.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mediumQuestion5Right.Designer.cs">
+      <DependentUpon>mediumQuestion5Right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mQuestion1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mQuestion1.Designer.cs">
+      <DependentUpon>mQuestion1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mQuestion2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mQuestion2.Designer.cs">
+      <DependentUpon>mQuestion2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mQuestion3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mQuestion3.Designer.cs">
+      <DependentUpon>mQuestion3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mQuestion4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mQuestion4.Designer.cs">
+      <DependentUpon>mQuestion4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mQuestion5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mQuestion5.Designer.cs">
+      <DependentUpon>mQuestion5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="spanishEasyQuestion1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spanishEasyQuestion1.Designer.cs">
+      <DependentUpon>spanishEasyQuestion1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="spanishEasyQuestion1Right.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spanishEasyQuestion1Right.Designer.cs">
+      <DependentUpon>spanishEasyQuestion1Right.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AToZAd.resx">
+      <DependentUpon>AToZAd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chooseDifficulty.resx">
+      <DependentUpon>chooseDifficulty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chooseLanguageEasy.resx">
+      <DependentUpon>chooseLanguageEasy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="easyQuestion1.resx">
+      <DependentUpon>easyQuestion1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="easyQuestion1Right.resx">
+      <DependentUpon>easyQuestion1Right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="easyQuestion2.resx">
+      <DependentUpon>easyQuestion2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="easyQuestion2Right.resx">
+      <DependentUpon>easyQuestion2Right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="easyQuestion2Wrong.resx">
+      <DependentUpon>easyQuestion2Wrong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="easyQuestion3.resx">
+      <DependentUpon>easyQuestion3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="easyQuestion3Right.resx">
+      <DependentUpon>easyQuestion3Right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="easyQuestion3Wrong.resx">
+      <DependentUpon>easyQuestion3Wrong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="easyQuestion4.resx">
+      <DependentUpon>easyQuestion4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="easyQuestion4Right.resx">
+      <DependentUpon>easyQuestion4Right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="easyQuestion4Wrong.resx">
+      <DependentUpon>easyQuestion4Wrong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="easyQuestion5Right.resx">
+      <DependentUpon>easyQuestion5Right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="easyQuestion5Wrong.resx">
+      <DependentUpon>easyQuestion5Wrong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="easyQuestionWrong1.resx">
+      <DependentUpon>easyQuestionWrong1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eQuestion5.resx">
+      <DependentUpon>eQuestion5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hardQuestion1Right.resx">
+      <DependentUpon>hardQuestion1Right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hardQuestion2Right.resx">
+      <DependentUpon>hardQuestion2Right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hardQuestion3Right.resx">
+      <DependentUpon>hardQuestion3Right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hardQuestion4Right.resx">
+      <DependentUpon>hardQuestion4Right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hardQuestion5Right.resx">
+      <DependentUpon>hardQuestion5Right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hQuestion1.resx">
+      <DependentUpon>hQuestion1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hQuestion2.resx">
+      <DependentUpon>hQuestion2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hQuestion3.resx">
+      <DependentUpon>hQuestion3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hQuestion4.resx">
+      <DependentUpon>hQuestion4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hQuestion5.resx">
+      <DependentUpon>hQuestion5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mediumQuestion1Right.resx">
+      <DependentUpon>mediumQuestion1Right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mediumQuestion2Right.resx">
+      <DependentUpon>mediumQuestion2Right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mediumQuestion3Right.resx">
+      <DependentUpon>mediumQuestion3Right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mediumQuestion4Right.resx">
+      <DependentUpon>mediumQuestion4Right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mediumQuestion5Right.resx">
+      <DependentUpon>mediumQuestion5Right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mQuestion1.resx">
+      <DependentUpon>mQuestion1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mQuestion2.resx">
+      <DependentUpon>mQuestion2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mQuestion3.resx">
+      <DependentUpon>mQuestion3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mQuestion4.resx">
+      <DependentUpon>mQuestion4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mQuestion5.resx">
+      <DependentUpon>mQuestion5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="spanishEasyQuestion1.resx">
+      <DependentUpon>spanishEasyQuestion1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %288%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %289%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %2810%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %2811%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %2811%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %2812%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %2813%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %2814%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %2815%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %283%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

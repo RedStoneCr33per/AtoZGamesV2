@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{86821287-F38B-4D3D-900F-72431CA404A2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sciencetific_Calc</RootNamespace>
+    <AssemblyName>Sciencetific Calc</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnalogClock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnalogClock.Designer.cs">
+      <DependentUpon>AnalogClock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="animeAndMangaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="animeAndMangaMenu.Designer.cs">
+      <DependentUpon>animeAndMangaMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Audio File Player.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Audio File Player.Designer.cs">
+      <DependentUpon>Audio File Player.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bleachMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bleachMenu.Designer.cs">
+      <DependentUpon>bleachMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bleachOpenings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bleachOpenings.Designer.cs">
+      <DependentUpon>bleachOpenings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chat_Client_APP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chat_Client_APP.Designer.cs">
+      <DependentUpon>Chat_Client_APP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Circle.cs" />
+    <Compile Include="clues.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clues.Designer.cs">
+      <DependentUpon>clues.cs</DependentUpon>
+    </Compile>
+    <Compile Include="crossword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crossword.Designer.cs">
+      <DependentUpon>crossword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DiceGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DiceGame.Designer.cs">
+      <DependentUpon>DiceGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="diceGameTwoPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diceGameTwoPlayer.Designer.cs">
+      <DependentUpon>diceGameTwoPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DigitalClock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DigitalClock.Designer.cs">
+      <DependentUpon>DigitalClock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fairyTailCharacters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fairyTailCharacters.Designer.cs">
+      <DependentUpon>fairyTailCharacters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fairyTailMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fairyTailMenu.Designer.cs">
+      <DependentUpon>fairyTailMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fairyTailOpenings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fairyTailOpenings.Designer.cs">
+      <DependentUpon>fairyTailOpenings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Flappy Bird.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Flappy Bird.Designer.cs">
+      <DependentUpon>Flappy Bird.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Get IP Address.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Get IP Address.Designer.cs">
+      <DependentUpon>Get IP Address.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Input.cs" />
+    <Compile Include="Internet Tv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Internet Tv.Designer.cs">
+      <DependentUpon>Internet Tv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MP3 Player.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MP3 Player.Designer.cs">
+      <DependentUpon>MP3 Player.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mynotepad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mynotepad.Designer.cs">
+      <DependentUpon>Mynotepad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mypdf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mypdf.Designer.cs">
+      <DependentUpon>Mypdf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="natsuDragneelBio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="natsuDragneelBio.Designer.cs">
+      <DependentUpon>natsuDragneelBio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="natsuDragneelBioPart2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="natsuDragneelBioPart2.Designer.cs">
+      <DependentUpon>natsuDragneelBioPart2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="natsuDragneelBioPart3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="natsuDragneelBioPart3.Designer.cs">
+      <DependentUpon>natsuDragneelBioPart3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="onscreenKeyboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="onscreenKeyboard.Designer.cs">
+      <DependentUpon>onscreenKeyboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Operators.cs" />
+    <Compile Include="paint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="paint.Designer.cs">
+      <DependentUpon>paint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="phone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="phone.Designer.cs">
+      <DependentUpon>phone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Player.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="saoOpenings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saoOpenings.Designer.cs">
+      <DependentUpon>saoOpenings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="Snake.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Snake.Designer.cs">
+      <DependentUpon>Snake.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Speaker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Speaker.Designer.cs">
+      <DependentUpon>Speaker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="swordArtOnlineMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="swordArtOnlineMenu.Designer.cs">
+      <DependentUpon>swordArtOnlineMenu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AnalogClock.resx">
+      <DependentUpon>AnalogClock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="animeAndMangaMenu.resx">
+      <DependentUpon>animeAndMangaMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Audio File Player.resx">
+      <DependentUpon>Audio File Player.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bleachMenu.resx">
+      <DependentUpon>bleachMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bleachOpenings.resx">
+      <DependentUpon>bleachOpenings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chat_Client_APP.resx">
+      <DependentUpon>Chat_Client_APP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clues.resx">
+      <DependentUpon>clues.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crossword.resx">
+      <DependentUpon>crossword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DiceGame.resx">
+      <DependentUpon>DiceGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diceGameTwoPlayer.resx">
+      <DependentUpon>diceGameTwoPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DigitalClock.resx">
+      <DependentUpon>DigitalClock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fairyTailCharacters.resx">
+      <DependentUpon>fairyTailCharacters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fairyTailMenu.resx">
+      <DependentUpon>fairyTailMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fairyTailOpenings.resx">
+      <DependentUpon>fairyTailOpenings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Flappy Bird.resx">
+      <DependentUpon>Flappy Bird.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Get IP Address.resx">
+      <DependentUpon>Get IP Address.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Internet Tv.resx">
+      <DependentUpon>Internet Tv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MP3 Player.resx">
+      <DependentUpon>MP3 Player.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mynotepad.resx">
+      <DependentUpon>Mynotepad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mypdf.resx">
+      <DependentUpon>Mypdf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="natsuDragneelBio.resx">
+      <DependentUpon>natsuDragneelBio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="natsuDragneelBioPart2.resx">
+      <DependentUpon>natsuDragneelBioPart2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="natsuDragneelBioPart3.resx">
+      <DependentUpon>natsuDragneelBioPart3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="onscreenKeyboard.resx">
+      <DependentUpon>onscreenKeyboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="paint.resx">
+      <DependentUpon>paint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="phone.resx">
+      <DependentUpon>phone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="saoOpenings.resx">
+      <DependentUpon>saoOpenings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Snake.resx">
+      <DependentUpon>Snake.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Speaker.resx">
+      <DependentUpon>Speaker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="swordArtOnlineMenu.resx">
+      <DependentUpon>swordArtOnlineMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Puzzles\puzzle_1.pzl" />
+    <None Include="Resources\dragon ball z.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice_blank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flappyBirdBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flappyBird.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\natsu.jpe" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\natsuBio.jpe" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nastuDragneelFullbody.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpe" />
+    <None Include="Resources\bleach.jpg" />
+    <Content Include="Resources\Fairy tail all opening %281-21%29.mp4" />
+    <None Include="Resources\Fire_Dragon%27s_Roar.gif" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

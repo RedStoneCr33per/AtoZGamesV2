@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Fire Dragon's Roar (火竜の咆哮 Karyū no Hōkō): Natsu's signature Dragon's Roar in which he quickly gathers and releases a large quantity of flames from his mouth at his target. In X792, Natsu's mastery over this spell allows him to create a continuous stream of flames that appears as a wall of fire across a field. 
+
+Fire Dragon's Claw (火竜の鉤爪 Karyū no Kagizume): Natsu ignites his feet in flames, thereby increasing the power of his kicks. The flames can also be used for jet-propulsion purposes.</value>
+  </data>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>Fire Dragon's Iron Fist (火竜の鉄拳 Karyū no Tekken): Natsu engulfs his fists in flames and punches the target. While he was wearing a cat mask, Natsu renamed this ability Cat Fire (猫ファイアー Neko Faiā). 
+
+Fire Dragon's Wing Attack (火竜の翼撃 Karyū no Yokugeki): Natsu rushes towards his target and grabs them, before subsequently setting hands ablaze, sending them flying. 
+
+Fire Dragon's Sword Horn (火竜の剣角 Karyū no Kenkaku): Natsu lights his entire body ablaze and headbutts the target at a high speed. 
+
+Fire Dragon's Brilliant Flame (火竜の煌炎 Karyū no Kōen): Natsu ignites both his hands in flames and then brings them together, creating a fiery explosion. In the anime, rather than generating an explosion, Natsu creates a large fireball to throw at his enemies. 
+
+Fire Dragon's Flame Elbow (火竜の炎肘 Karyū no Enchū): Natsu creates a stream of fire from his elbow, propelling him forward and increasing the strength of his punches. 
+
+Fire Dragon's Crushing Fang (火竜の砕牙 Karyū no Saiga): With his hand lit ablaze, Natsu swipes at the target in a claw-like fashion, burning them. 
+
+Fire Dragon's Grip Strike (火竜の握撃 Karyū no Akugeki): Grabbing his enemy and supporting his arm with his other, Natsu blasts the foe at point blank range. </value>
+  </data>
+  <data name="richTextBox3.Text" xml:space="preserve">
+    <value>Fire Dragon King's Demolition Fist (炎竜王の崩拳 Enryūō no Hōken): Natsu first charges his fist, releasing a huge amount of fire in the process. After a brief delay, he punches his target with immense force so strong, in fact, that it shatters even the biggest of his foes to pieces. 
+
+Fire Dragon King's Roar (炎竜王の咆哮 Enryūō no Hōkō): An enhanced and empowered version of his Fire Dragon's Roar, that Natsu used to take down an entire battalion's worth of soldiers of the Alvarez Empire and destroyed a vast space of earth in the process.</value>
+  </data>
+</root>

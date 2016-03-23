@@ -1,0 +1,226 @@
+F:\Sciencetific Calc\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.exe.config
+F:\Sciencetific Calc\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.exe
+F:\Sciencetific Calc\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.pdb
+F:\Sciencetific Calc\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Form1.resources
+F:\Sciencetific Calc\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Properties.Resources.resources
+F:\Sciencetific Calc\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csproj.GenerateResource.Cache
+F:\Sciencetific Calc\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.exe
+F:\Sciencetific Calc\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.pdb
+F:\Sciencetific Calc\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csprojResolveAssemblyReference.cache
+F:\Sciencetific Calc\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Form2.resources
+H:\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.exe.config
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.exe
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.pdb
+H:\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.exe
+H:\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.pdb
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csprojResolveAssemblyReference.cache
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Form1.resources
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Form2.resources
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.paint.resources
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Properties.Resources.resources
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csproj.GenerateResource.Cache
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Snake.resources
+F:\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.exe.config
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.exe
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.pdb
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csprojResolveAssemblyReference.cache
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Form1.resources
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Form2.resources
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.paint.resources
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Properties.Resources.resources
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Snake.resources
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csproj.GenerateResource.Cache
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Interop.WMPLib.dll
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\AxInterop.WMPLib.dll
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csproj.ResolveComReference.cache
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Internet_Tv.resources
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Interop.WMPLib.dll
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\AxInterop.WMPLib.dll
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csproj.ResolveComReference.cache
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Interop.AcroPDFLib.dll
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.AnalogClock.resources
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Audio_File_Player.resources
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Chat_Client_APP.resources
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.DigitalClock.resources
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Get_IP_Address.resources
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Internet_Tv.resources
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.MP3_Player.resources
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Mynotepad.resources
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Mypdf.resources
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Speaker.resources
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.AnalogClock.resources
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Audio_File_Player.resources
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Chat_Client_APP.resources
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.DigitalClock.resources
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Get_IP_Address.resources
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.MP3_Player.resources
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Mynotepad.resources
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Mypdf.resources
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Speaker.resources
+H:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.DiceGame.resources
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.DiceGame.resources
+F:\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.exe
+F:\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.pdb
+F:\Sciencetific Calc\Sciencetific Calc\bin\Debug\Interop.AcroPDFLib.dll
+F:\Sciencetific Calc\Sciencetific Calc\bin\Debug\Interop.WMPLib.dll
+F:\Sciencetific Calc\Sciencetific Calc\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\Sciencetific Calc\Sciencetific Calc\bin\Debug\AxInterop.WMPLib.dll
+F:\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Flappy_Bird.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.exe.config
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Interop.AcroPDFLib.dll
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Interop.WMPLib.dll
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\AxInterop.WMPLib.dll
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csproj.ResolveComReference.cache
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.exe
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.pdb
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.exe.config
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Interop.WMPLib.dll
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\AxInterop.WMPLib.dll
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csproj.ResolveComReference.cache
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.exe
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.pdb
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csprojResolveAssemblyReference.cache
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.AnalogClock.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Audio_File_Player.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Chat_Client_APP.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.DiceGame.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.DigitalClock.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Flappy_Bird.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Form1.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Form2.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Get_IP_Address.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Internet_Tv.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.MP3_Player.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Mynotepad.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Mypdf.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.paint.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Properties.Resources.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Snake.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Speaker.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csproj.GenerateResource.Cache
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.exe
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.pdb
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Interop.WMPLib.dll
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\AxInterop.WMPLib.dll
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.onscreenKeyboard.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.phone.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.animeAndMangaMenu.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.fairyTailCharacters.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.fairyTailMenu.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.natsuDragneelBio.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.natsuDragneelBioPart2.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.fairyTailOpenings.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.diceGameTwoPlayer.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.natsuDragneelBioPart3.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.clues.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.crossword.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.exe
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.pdb
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Interop.AcroPDFLib.dll
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Interop.WMPLib.dll
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\AxInterop.WMPLib.dll
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csprojResolveAssemblyReference.cache
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.AnalogClock.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.animeAndMangaMenu.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Audio_File_Player.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Chat_Client_APP.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.clues.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.crossword.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.DiceGame.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.diceGameTwoPlayer.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.DigitalClock.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.fairyTailCharacters.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.fairyTailMenu.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.fairyTailOpenings.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Flappy_Bird.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Form1.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Form2.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Get_IP_Address.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Internet_Tv.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.MP3_Player.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Mynotepad.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Mypdf.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.natsuDragneelBio.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.natsuDragneelBioPart2.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.natsuDragneelBioPart3.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.onscreenKeyboard.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.paint.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.phone.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Properties.Resources.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Snake.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Speaker.resources
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csproj.GenerateResource.Cache
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Interop.ShockwaveFlashObjects.dll
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.exe.config
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Interop.AcroPDFLib.dll
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Interop.WMPLib.dll
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\AxInterop.WMPLib.dll
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csproj.ResolveComReference.cache
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.exe
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.pdb
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.exe
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.pdb
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Interop.AcroPDFLib.dll
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Interop.WMPLib.dll
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\AxInterop.WMPLib.dll
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csprojResolveAssemblyReference.cache
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.AnalogClock.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.animeAndMangaMenu.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Audio_File_Player.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Chat_Client_APP.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.clues.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.crossword.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.DiceGame.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.diceGameTwoPlayer.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.DigitalClock.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.fairyTailCharacters.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.fairyTailMenu.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.fairyTailOpenings.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Flappy_Bird.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Form1.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Form2.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Get_IP_Address.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Internet_Tv.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.MP3_Player.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Mynotepad.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Mypdf.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.natsuDragneelBio.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.natsuDragneelBioPart2.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.natsuDragneelBioPart3.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.onscreenKeyboard.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.paint.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.phone.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Properties.Resources.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Snake.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.Speaker.resources
+F:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csproj.GenerateResource.Cache
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.saoOpenings.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.swordArtOnlineMenu.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\Interop.ShockwaveFlashObjects.dll
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.bleachMenu.resources
+H:\Sciencetific Calc Project\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific_Calc.bleachOpenings.resources
+C:\Users\aalexander\Source\Repos\A-to-Z-Games-V2-Again-Lol-\Sciencetific Calc\Sciencetific Calc\bin\Debug\Sciencetific Calc.exe.config
+C:\Users\aalexander\Source\Repos\A-to-Z-Games-V2-Again-Lol-\Sciencetific Calc\Sciencetific Calc\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\aalexander\Source\Repos\A-to-Z-Games-V2-Again-Lol-\Sciencetific Calc\Sciencetific Calc\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\aalexander\Source\Repos\A-to-Z-Games-V2-Again-Lol-\Sciencetific Calc\Sciencetific Calc\obj\Debug\Interop.WMPLib.dll
+C:\Users\aalexander\Source\Repos\A-to-Z-Games-V2-Again-Lol-\Sciencetific Calc\Sciencetific Calc\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\aalexander\Source\Repos\A-to-Z-Games-V2-Again-Lol-\Sciencetific Calc\Sciencetific Calc\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\aalexander\Source\Repos\A-to-Z-Games-V2-Again-Lol-\Sciencetific Calc\Sciencetific Calc\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\aalexander\Source\Repos\A-to-Z-Games-V2-Again-Lol-\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.csproj.ResolveComReference.cache
+C:\Users\aalexander\Source\Repos\A-to-Z-Games-V2-Again-Lol-\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.exe
+C:\Users\aalexander\Source\Repos\A-to-Z-Games-V2-Again-Lol-\Sciencetific Calc\Sciencetific Calc\obj\Debug\Sciencetific Calc.pdb

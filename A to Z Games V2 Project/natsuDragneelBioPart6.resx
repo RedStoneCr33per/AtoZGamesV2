@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>Dragon Force (竜の力, ドラゴンフォース Doragon Fōsu): By consuming Etherion or the Flame of Rebuke Natsu has been shown to be able to enter Dragon Force. This ability is said to be the final and most powerful state a Dragon Slayer can attain, and it has been said that their power becomes comparable to that of a real Dragon's. Natsu is the first known First generation Dragon Slayer to enter Dragon Force without consuming external sources.
+
+Hidden Fire Form - Crimson Lotus: Phoenix Blade
+(不知火型 紅蓮鳳凰剣 Shiranuigata Guren Hōōken): Natsu ignites his entire body with fire, and then charges towards the target, sending them into the air with a sharp uppercut. Natsu then, in a similar manner to Fire Dragon's Sword Horn, headbutts his target. This spell appears to be Natsu's strongest, as it was able to overpower Zero's strongest spell, Genesis Zero, something that Crimson Lotus: Exploding Flame Blade could not, although, this could be because Crimson Lotus: Phoenix Blade relies on piercing power, rather than explosive power. This destructively unstoppable spell was used to defeat Zero.
+
+Transformation Magic (変身魔法 Henshin Mahō): Natsu has mastered the rudimentary skills of Transformation Magic. He was able to successfully transform into Lucy on his second try.
+
+Enhanced Smell: Natsu has a very keen sense of smell. Natsu could easily distinguish Kaby as a poor man, rather than a rich one, from his smell, even though he was temporarily living in his friend's expensive house to appear otherwise. Natsu could also, as a result of their prior encounter, track Ultear via scent, despite the large distance between them.
+
+Enhanced Hearing: Natsu, according to himself, possesses exceptionally good hearing, something which, during the Grand Magic Games, was proven true. During Lucy Heartfilia's fight with Flare Corona, the latter was threatening Asuka Connell with the help of her hair. Natsu was seemingly the only one who could hear their low conversation, and thus reacted accordingly by protecting the girl from the threat, allowing Lucy to continue fighting. He has also proven himself to be able to hear the voices of the Alvarez soldiers searching for a spy from way out at sea.</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Immense Strength: Natsu has shown on numerous occasions to possess a high degree of strength, enough for him to perform a number of physical feats, among which are freely swinging around the mast of a ship as a makeshift weapon, doing the same with a palm tree he personally broke, bare-handed, shattering a billiard table and cracking most of its balls simply by hitting one of them with the cue, and stopping the gargantuan Dorma Anim's foot, which was going to crush him and his fellow Dragon Slayers, all by himself, subsequently throwing the robotic Dragon off balance by rapidly pushing it away. Furthermore, he was capable of battling both Sting Eucliffe and Rogue Cheney, alone, while they were in Dragon Force, easily over-powering the two with his sheer physical strength. Furthermore, Natsu is able to lift a very large boulder, given the fact that he was already injured from Franmalth's Curse, and used it in order to defeat the Demon. After a year of training, Natsu has also demonstrated the ability to move under the influence of Bluenote Stinger's gravitational field, something eight years before which he was not able to do, though Natsu was in a suspended state for seven of those years while Bluenote was not.</value>
+  </data>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAA
+        AAAAAAAA/wC7AP+EAADj+pgAAAD/AAD/9wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAUAAAAAAAAAUDMzMzMzMzMAMzMRMxERMwAzMTMTEzMzADMxMxMxEzMAMzEzEzMxMwAzMTMTER
+        EzADMjMjRERDMAMyMyNDMzMwAzIzIzQzMzADMiIjM0MzMAMyMyMzNDMwAzIzIzMzQzADMiIjRERDMAMz
+        MzMzMzMwUAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAA
+</value>
+  </data>
+</root>

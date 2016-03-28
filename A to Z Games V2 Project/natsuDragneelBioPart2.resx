@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Natsu is carefree and reckless in nature, and, despite his consistent brawls with the other members of Fairy Tail, he is a fiercely loyal and protective friend. He is willing to go down fighting for his friends, regardless of how futile it might seem. Natsu has a straightforward mind, and often tackles issues with a "hands on" approach. His solution to problems often involve violence. Even when disrespected or faced with obvious hostility, Natsu rarely ever reciprocates the feelings, and often forgoes grudge-holding. He did, however, for a short time, hold a grudge against Jellal Fernandes, but eventually forgave him and considered him an ally. He occasionally shows compassion for his enemies, such as when Cobra was betrayed by Brain. Natsu rarely exhibits any perverse tendencies towards the opposite sex, there only being two noted instances. The first is seen prior to the Grand Magic Games, when he is seen trying to peek, along with several other of his male Guild mates, on the women as they bathed. The second is when Lucy comes crashing into him while nude, and he stares at her body, even groping her breasts for a moment. 
+
+Natsu continuously tries to prove his strength to others. At various points in time, he has challenged Erza, Laxus, Mirajane, and even Gildarts (in short, all of Fairy Tail's current S-Class Mages), to fight him, albeit, he was beaten every single time. Despite his losses, Natsu bears them no ill will, as he considers everyone in the guild to be his family. He demonstrates this attitude even towards former enemies. Natsu has even gone as far as defending Laxus from being expelled, despite his attempt at taking over the guild. Due to his reckless nature, Natsu's fights usually ends with widespread destruction. Natsu's love of fighting has allowed him to develop a rather strategic mind, helping him to, on various occasions, find weaknesses in his opponent's techniques, or simply weaknesses his opponents themselves possess. Natsu has also defeated his opponents with pure wit, rather than brute strength. Natsu, befitting his recklessness and love of fighting, never backs out of a fight. 
+
+Natsu was very close to Lisanna, and, because of this, after her supposed death, no one in Fairy Tail mentioned her out of respect for his feelings. However, after Lisanna's return to Earth Land from Edolas, this is no longer the case.
+
+ As a Dragon Slayer, Natsu suffers from motion sickness. Natsu becomes sick from riding on any form of transportation, even if the transportation happens to be other people, as shown when he was carried by Lucy. This, however, does not apply to Happy, as he considers him family, not transportation. Natsu can become sick from looking at, or simply thinking about, any form of transportation. In spite of his naturally dense nature, Natsu is quite perceptive and understanding of his friend's feelings. After his battle with Gildarts during the S-Class Mage Promotion Trial, Natsu came to understand and accept fear, and has used this acceptance to help his guildmates and himself emotionally grow. Prior to this event, Erza’s wrath (albeit for comic relief), transportation, and the Magic Council were the only things that Natsu feared.</value>
+  </data>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>Fire Dragon Slayer Magic (炎の滅竜魔法 Honō no Metsuryū Mahō): Natsu is adept with his Dragon Slayer Magic and makes use of it in many different ways in combat. As with all Dragon Slayers, he can consume his respective element, with the exception of that which he has created, to replenish his energy reserves. The heat of his fire can increase in temperature, which is proportional to Natsu's emotional state. Natsu subconsciously used this against Erigor; his flame's heat significantly rose as he got more enraged. This is also called the Flame of Emotion. He incorporates the flames he ignites into his fighting style, greatly increasing the damage of his blows. As such, Natsu's Magic revolves around the usage of fire that can spout from any part of his body. Natsu's ability to eat flames gives him immunity to most types of flames, including explosions, and allows him to spew fire from his lungs. This fire is exceptionally strong - equivalent to a Dragon's fire - being able to burn even through metal. He can even use his flames to create a propulsive effect. The type of fire he uses can be changed. For example, it can be solidified to cling to surfaces. By the year X792, after one year of training, Natsu has shown improved mastery over his Dragon Slayer Magic as he is now capable of taking out multiple opponents with just one attack, as shown when he challenged and effortlessly defeated the team of the newly announced No.1 guild in Fiore, Scarmiglione, and later was able to defeat Bluenote Stinger in one hit.</value>
+  </data>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>32</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAA
+        AAAAAAAA/wC7AP+EAADj+pgAAAD/AAD/9wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAUAAAAAAAAAUDMzMzMzMzMAMzMRMxERMwAzMTMTEzMzADMxMxMxEzMAMzEzEzMxMwAzMTMTER
+        EzADMjMjRERDMAMyMyNDMzMwAzIzIzQzMzADMiIjM0MzMAMyMyMzNDMwAzIzIzMzQzADMiIjRERDMAMz
+        MzMzMzMwUAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAA
+</value>
+  </data>
+</root>

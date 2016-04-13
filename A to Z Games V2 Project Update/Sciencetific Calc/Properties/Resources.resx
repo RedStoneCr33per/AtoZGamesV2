@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="chibi_nagisa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chibi_nagisa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ie_gold" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ie_gold.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Volume_49_Lucy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Volume_49_Lucy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="natsu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\natsu.jpe;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="music_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\music_background.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="70_bet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\70_bet.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dice_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dice_6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lucy_using_her_Fleuve_d'étoiles" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lucy_using_her_Fleuve_d'étoiles.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dice_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dice_5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="natsu_status" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\natsu_status.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wing_Reading_Glasses" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Wing_Reading_Glasses.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="plus_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plus_button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bonus_coins" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bonus_coins.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shiftry" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Shiftry.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Aquarius_is_summoned_by_Lucy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Aquarius_is_summoned_by_Lucy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fire_DS_Doll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fire_DS_Doll.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chibi_mirajane_slot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chibi_mirajane_slot.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Edolas_Weapon,_Sealed_Flame_Blade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Edolas_Weapon,_Sealed_Flame_Blade.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="question_mark_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\question_mark_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leafeon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leafeon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lgp85-Blue-Crystal-My-Computer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lgp85-Blue-Crystal-My-Computer.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="100_bet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\100_bet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lucy_X792" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lucy_X792.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="folder_music" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\folder_music.jpe;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lucy_Fire" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lucy_Fire.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Uranometria" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Uranometria.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dice_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dice_4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dice_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dice_3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Force_Gate_Closure" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Force_Gate_Closure.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="80_bet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\80_bet.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="home" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\home.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Trevenant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Trevenant.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DoubleChevronRight-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DoubleChevronRight-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lucy_status" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lucy_status.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chibi_hinata" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chibi_hinata.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Red" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Red.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="natsuBio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\natsuBio.jpe;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dragon_God's_Brilliant_Flame" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dragon_God's_Brilliant_Flame.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hal_9000_google_chrome_icon_v_1_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hal_9000_google_chrome_icon_v_1_0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="youtube-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\youtube-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paint_bucket" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\paint_bucket.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chibi_levy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chibi_levy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="atozlogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\atozlogo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maxresdefault" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maxresdefault.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download-158006_640" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download-158006_640.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nastuDragneelFullbody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nastuDragneelFullbody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download (1).jpe;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icon_folder_red_photos_by_froshellin-d4p6fo8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icon_folder_red_photos_by_froshellin-d4p6fo8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lucy_ready_to_fight_Sherry" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lucy_ready_to_fight_Sherry.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dragon ball z" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dragon ball z.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flappyBird" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flappyBird.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lucy_keys" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lucy_keys.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="redo-grey-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\redo-grey-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chibi_wendy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chibi_wendy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lucy_fights" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lucy_fights.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="question_mark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\question_mark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chibi_asuna" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chibi_asuna.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="atozgames" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\atozgames.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chibi_kyou" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chibi_kyou.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="equal_sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\equal_sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fairy_tail_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fairy_tail_symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="okami_firefox_icon_by_theaveragegeek-d4e05td" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\okami_firefox_icon_by_theaveragegeek-d4e05td.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Exploding_Flame_Blade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Exploding_Flame_Blade.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gmail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gmail.jpe;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="recycling_bin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\recycling_bin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fire_Dragon's_Roar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fire_Dragon's_Roar.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chibi_sinon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chibi_sinon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="250px-150Mewtwo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\250px-150Mewtwo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Natsu_With_Lightning_Absorbed_Anime" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Natsu_With_Lightning_Absorbed_Anime.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Original_Concept_Lucy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Original_Concept_Lucy.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="20_bet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\20_bet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dice_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dice_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="90_bet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\90_bet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dice_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dice_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iTunes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iTunes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Natsu_vs._Twin_Dragons" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Natsu_vs._Twin_Dragons.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icon-folder.red.music" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icon-folder.red.music.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="csflow-folder" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\csflow-folder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chibi_fuu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chibi_fuu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Silver Keys" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Silver Keys.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Unison_Raid_190" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Unison_Raid_190.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flappyBirdBackground" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flappyBirdBackground.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Routetut" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Routetut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cave-of-No-Return-Entrance-Artwork" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cave-of-No-Return-Entrance-Artwork.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RedCross" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RedCross.jpe;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chibi_lucy_slot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chibi_lucy_slot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Too_cute_to_be_harmed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Too_cute_to_be_harmed.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bleach" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bleach.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="50_bet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\50_bet.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chibi_erza_slot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chibi_erza_slot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dice_blank" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dice_blank.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lucy's_list_of_perfect_boyfriends" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lucy's_list_of_perfect_boyfriends.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="or_as_battle_background_1_by_phoenixoflight92-d83m36e" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\or_as_battle_background_1_by_phoenixoflight92-d83m36e.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="300px-Pink-eraser.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\300px-Pink-eraser.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lucy-Kick-animated" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lucy-Kick-animated.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="change_settings_pic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\change_settings_pic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
